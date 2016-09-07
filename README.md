@@ -1,4 +1,4 @@
-# execiceWCS
+# exerciceWCS
 quetes WCS
 héhéhé 
 
